@@ -4,56 +4,6 @@
   
   
   <entry>
-    <title>标题2</title>
-    <link href="/2024/07/14/test%20copy/"/>
-    <url>/2024/07/14/test%20copy/</url>
-    
-    <content type="html"><![CDATA[<h1 id="这是第一次实验"><a href="#这是第一次实验" class="headerlink" title="这是第一次实验"></a>这是第一次实验</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment">#你说呢</span><br>yum install -y rsync<br></code></pre></td></tr></table></figure><h2 id="这是第二次实验"><a href="#这是第二次实验" class="headerlink" title="这是第二次实验"></a>这是第二次实验</h2><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">apiVersion:</span> <span class="hljs-string">v1</span><br><span class="hljs-attr">kind:</span> <span class="hljs-string">Pod</span><br><span class="hljs-attr">metadata:</span><br>  <span class="hljs-attr">name:</span> <span class="hljs-string">this</span> <span class="hljs-string">is</span> <span class="hljs-string">name</span><br><span class="hljs-attr">spec:</span><br>  <span class="hljs-attr">containers:</span><br>  <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">this</span><br>    <span class="hljs-attr">ports:</span> <br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">containerPort:</span> <span class="hljs-number">80</span><br></code></pre></td></tr></table></figure><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">details</span>&gt;</span><br>  <span class="hljs-tag">&lt;<span class="hljs-name">summary</span>&gt;</span>点我展开看代码<span class="hljs-tag">&lt;/<span class="hljs-name">summary</span>&gt;</span><br>  <span class="hljs-tag">&lt;<span class="hljs-name">pre</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">code</span>&gt;</span><br># 生成随机的11位数字组成的字符串<br>import string<br>import random<br><br>digits = string.digits<br>print(digits) # 0123456789<br><br>s = random.choices(digits,k=11)<br>print(&#x27;&#x27;.join(s)) # 11124861574<br>  <span class="hljs-tag">&lt;/<span class="hljs-name">code</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">pre</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">details</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    <categories>
-      
-      <category>分类2</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>标签2</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>标题</title>
-    <link href="/2024/07/14/test/"/>
-    <url>/2024/07/14/test/</url>
-    
-    <content type="html"><![CDATA[<span class="label label-info">信息</span><span class="label label-success">成功</span><h1 id="这是够选框子"><a href="#这是够选框子" class="headerlink" title="这是够选框子"></a>这是够选框子</h1>            <input type="checkbox"  checked="checked">text          <a class="btn" href="https://baidu.com"  title="title" target="_blank">k8s官网</a><h1 id="这是折叠实验"><a href="#这是折叠实验" class="headerlink" title="这是折叠实验"></a>这是折叠实验</h1>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-b8cce977" role="button" aria-expanded="false" aria-controls="collapse-b8cce977">        <div class="fold-arrow">▶</div>yaml代码      </div>      <div class="fold-collapse collapse" id="collapse-b8cce977">        <div class="fold-content">          <p>apiVersion: v1<br>kind: Pod<br>metadata:<br>  name: this is name<br>spec:<br>  containers:</p><ul><li>name: this<br>ports: <ul><li>containerPort: 80</li></ul></li></ul>        </div>      </div>    </div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment">#你说呢</span><br>yum install -y rsync<br></code></pre></td></tr></table></figure><h2 id="这是第二次实验"><a href="#这是第二次实验" class="headerlink" title="这是第二次实验"></a>这是第二次实验</h2><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">apiVersion:</span> <span class="hljs-string">v1</span><br><span class="hljs-attr">kind:</span> <span class="hljs-string">Pod</span><br><span class="hljs-attr">metadata:</span><br>  <span class="hljs-attr">name:</span> <span class="hljs-string">this</span> <span class="hljs-string">is</span> <span class="hljs-string">name</span><br><span class="hljs-attr">spec:</span><br>  <span class="hljs-attr">containers:</span><br>  <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">this</span><br>    <span class="hljs-attr">ports:</span> <br>    <span class="hljs-bullet">-</span> <span class="hljs-attr">containerPort:</span> <span class="hljs-number">80</span><br></code></pre></td></tr></table></figure><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">details</span>&gt;</span><br>  <span class="hljs-tag">&lt;<span class="hljs-name">summary</span>&gt;</span>点我展开看代码<span class="hljs-tag">&lt;/<span class="hljs-name">summary</span>&gt;</span><br>  <span class="hljs-tag">&lt;<span class="hljs-name">pre</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">code</span>&gt;</span><br># 生成随机的11位数字组成的字符串<br>import string<br>import random<br><br>digits = string.digits<br>print(digits) # 0123456789<br><br>s = random.choices(digits,k=11)<br>print(&#x27;&#x27;.join(s)) # 11124861574<br>  <span class="hljs-tag">&lt;/<span class="hljs-name">code</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">pre</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">details</span>&gt;</span><br></code></pre></td></tr></table></figure><h1 id="这是第三次实验"><a href="#这是第三次实验" class="headerlink" title="这是第三次实验"></a>这是第三次实验</h1><h2 id="这是第二次实验-1"><a href="#这是第二次实验-1" class="headerlink" title="这是第二次实验"></a>这是第二次实验</h2><h3 id="这是第二次实验-2"><a href="#这是第二次实验-2" class="headerlink" title="这是第二次实验"></a>这是第二次实验</h3><h4 id="这是第二次实验-3"><a href="#这是第二次实验-3" class="headerlink" title="这是第二次实验"></a>这是第二次实验</h4><h1 id="这是第三次实验-1"><a href="#这是第三次实验-1" class="headerlink" title="这是第三次实验"></a>这是第三次实验</h1><h2 id="三这是第二次实验"><a href="#三这是第二次实验" class="headerlink" title="三这是第二次实验"></a>三这是第二次实验</h2>]]></content>
-    
-    
-    <categories>
-      
-      <category>这是分类</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>这是标签</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2024/07/12/hello-world/"/>
     <url>/2024/07/12/hello-world/</url>
